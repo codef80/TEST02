@@ -1,7 +1,0 @@
-FINAL_index.html
-FINAL_dashboard.html
-FINAL_bookings.html
-FINAL_finance.html
-FINAL_projects.html
-FINAL_config.txt
-FINAL_config_code.txt
